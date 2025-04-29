@@ -1,3 +1,6 @@
+context.js
+JavaScript
+
 // Importa hooks do React e funções do Firebase para autenticação e Firestore
 import { createContext, useContext, useEffect, useState } from "react";
 import {
